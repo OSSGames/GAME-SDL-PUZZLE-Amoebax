@@ -1,7 +1,7 @@
 # Puzzle-Amoebax
 Amoebax is a cute and addictive action-puzzle game.
 
-##Required Components
+## Required Components
 * SDL 1.2.11
 * SDL_image 1.2.5
 * SDL_mixer 1.2.7
@@ -10,9 +10,9 @@ Amoebax is a cute and addictive action-puzzle game.
 * Ogg
 * Vorbis
 
-##License
+## License
 * GNU GPL V2
 * Free Art License version 1.2
 
-##Links
+## Links
 * http://www.emma-soft.com/games/amoebax/
